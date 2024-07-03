@@ -1,0 +1,12 @@
+C:\Users\juanp\source\repos\Ticket de Cine\bin\Debug\Ticket de Cine.exe.config
+C:\Users\juanp\source\repos\Ticket de Cine\bin\Debug\Ticket de Cine.exe
+C:\Users\juanp\source\repos\Ticket de Cine\bin\Debug\Ticket de Cine.pdb
+C:\Users\juanp\source\repos\Ticket de Cine\bin\Debug\Ticket de Cine.xml
+C:\Users\juanp\source\repos\Ticket de Cine\obj\Debug\Ticket de Cine.vbproj.AssemblyReference.cache
+C:\Users\juanp\source\repos\Ticket de Cine\obj\Debug\Ticket_de_Cine.Form1.resources
+C:\Users\juanp\source\repos\Ticket de Cine\obj\Debug\Ticket_de_Cine.Resources.resources
+C:\Users\juanp\source\repos\Ticket de Cine\obj\Debug\Ticket de Cine.vbproj.GenerateResource.cache
+C:\Users\juanp\source\repos\Ticket de Cine\obj\Debug\Ticket de Cine.vbproj.CoreCompileInputs.cache
+C:\Users\juanp\source\repos\Ticket de Cine\obj\Debug\Ticket de Cine.exe
+C:\Users\juanp\source\repos\Ticket de Cine\obj\Debug\Ticket de Cine.xml
+C:\Users\juanp\source\repos\Ticket de Cine\obj\Debug\Ticket de Cine.pdb
