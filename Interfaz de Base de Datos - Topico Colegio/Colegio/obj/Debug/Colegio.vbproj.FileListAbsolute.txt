@@ -1,0 +1,11 @@
+c:\users\labpc\documents\visual studio 2013\Projects\Colegio\Colegio\bin\Debug\Colegio.exe.config
+c:\users\labpc\documents\visual studio 2013\Projects\Colegio\Colegio\bin\Debug\Colegio.mdb
+c:\users\labpc\documents\visual studio 2013\Projects\Colegio\Colegio\bin\Debug\Colegio.exe
+c:\users\labpc\documents\visual studio 2013\Projects\Colegio\Colegio\bin\Debug\Colegio.pdb
+c:\users\labpc\documents\visual studio 2013\Projects\Colegio\Colegio\bin\Debug\Colegio.xml
+c:\users\labpc\documents\visual studio 2013\Projects\Colegio\Colegio\obj\Debug\Colegio.Form1.resources
+c:\users\labpc\documents\visual studio 2013\Projects\Colegio\Colegio\obj\Debug\Colegio.Resources.resources
+c:\users\labpc\documents\visual studio 2013\Projects\Colegio\Colegio\obj\Debug\Colegio.vbproj.GenerateResource.Cache
+c:\users\labpc\documents\visual studio 2013\Projects\Colegio\Colegio\obj\Debug\Colegio.exe
+c:\users\labpc\documents\visual studio 2013\Projects\Colegio\Colegio\obj\Debug\Colegio.xml
+c:\users\labpc\documents\visual studio 2013\Projects\Colegio\Colegio\obj\Debug\Colegio.pdb
